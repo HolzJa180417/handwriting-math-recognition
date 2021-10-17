@@ -14,10 +14,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Handwritten Math-Formula Recognizer</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    developed by Holzinger Jakob
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
