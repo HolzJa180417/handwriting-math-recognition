@@ -1,6 +1,3 @@
-[LinkedIn][https://www.linkedin.com/in/jakob-holzinger-3061b0227/]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
