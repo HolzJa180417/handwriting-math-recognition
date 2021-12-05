@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/jakob-holzinger-3061b0227/]
+[LinkedIn][linkedin-shield]][https://www.linkedin.com/in/jakob-holzinger-3061b0227/]
 
 
 <!-- PROJECT LOGO -->
@@ -28,5 +28,3 @@
 
 * [Python](https://www.python.org/)
 * [OpenCV2](https://pypi.org/project/opencv-python/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
