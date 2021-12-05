@@ -1,4 +1,4 @@
-[LinkedIn][linkedin-shield]][https://www.linkedin.com/in/jakob-holzinger-3061b0227/]
+[LinkedIn][https://www.linkedin.com/in/jakob-holzinger-3061b0227/]
 
 
 <!-- PROJECT LOGO -->
